@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CardLe</string>
+    <string name="back_to_menu">Back to menu</string>
+    <string name="name_of_the_card">Card name</string>
+    <string name="try_left">Tries left: </string>
+    <string name="check">Check</string>
+    <string name="set">Set</string>
+    <string name="class_st">Class</string>
+    <string name="rarity">Rarity</string>
+    <string name="mana">Mana</string>
+    <string name="attack">Attack</string>
+    <string name="health">Health</string>
+    <string name="play">Play</string>
+    <string name="card_language">Card language</string>
+    <string name="select_set">Select mode</string>
+
+
+    <string name="no_tries">You have ran out of tries</string>
+    <string name="no_tries_left">Do you want to watch a video to continue?</string>
+    <string name="watch_ideo">Watch</string>
+    <string name="cancel_video">Back</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
+    <string-array name="sets">
+        <item>Standard</item>
+        <item>Wild</item>
+    </string-array>
+</resources>

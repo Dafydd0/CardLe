@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CardLe</string>
+    <string name="back_to_menu">Volver al menú</string>
+    <string name="name_of_the_card">Nombre de la carta</string>
+    <string name="try_left">Intentos restantes: </string>
+    <string name="check">Comprobar</string>
+    <string name="set">Set</string>
+    <string name="class_st">Clase</string>
+    <string name="rarity">Rareza</string>
+    <string name="mana">Maná</string>
+    <string name="attack">Ataque</string>
+    <string name="health">Salud</string>
+    <string name="play">Jugar</string>
+    <string name="card_language">Idioma de las cartas</string>
+    <string name="select_set">Elegir modo</string>
+
+    <string name="no_tries">Te has quedado sin intentos</string>
+    <string name="no_tries_left">¿Quieres ver un video para continuar?</string>
+    <string name="watch_ideo">Ver</string>
+    <string name="cancel_video">Volver</string>
+
+    <string-array name="languages">
+        <item>Inglés</item>
+        <item>Español</item>
+    </string-array>
+    <string-array name="sets">
+        <item>Estándar</item>
+        <item>Salvaje</item>
+    </string-array>
+</resources>
