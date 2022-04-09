@@ -10,18 +10,10 @@ plugins {
 android {
     signingConfigs {
         releaseConfig {
-            storeFile file('C:\\Users\\34618\\Documents\\MyKeyApps.jks')
-            storePassword 'TEleco2022'
-            keyAlias 'MyKeyApp'
-            keyPassword 'TEleco2022'
         }
     }
     signingConfigs {
         debug {
-            storeFile file('C:\\Users\\34618\\Documents\\MyKeyApps.jks')
-            storePassword 'TEleco2022'
-            keyAlias 'MyKeyApp'
-            keyPassword 'TEleco2022'
         }
     }
     compileSdk 31
